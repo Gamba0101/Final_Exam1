@@ -1,0 +1,1 @@
+This is the folder for first final exam on GeekBrains for the first part of "Разработчик" course.

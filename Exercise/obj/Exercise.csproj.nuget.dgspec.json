@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/gamba/Desktop/FinalExamGB/Exercise/Exercise.csproj": {}
+    "/Users/gamba/Desktop/GB course/FinalExamGB/Exercise/Exercise.csproj": {}
   },
   "projects": {
-    "/Users/gamba/Desktop/FinalExamGB/Exercise/Exercise.csproj": {
+    "/Users/gamba/Desktop/GB course/FinalExamGB/Exercise/Exercise.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/gamba/Desktop/FinalExamGB/Exercise/Exercise.csproj",
+        "projectUniqueName": "/Users/gamba/Desktop/GB course/FinalExamGB/Exercise/Exercise.csproj",
         "projectName": "Exercise",
-        "projectPath": "/Users/gamba/Desktop/FinalExamGB/Exercise/Exercise.csproj",
+        "projectPath": "/Users/gamba/Desktop/GB course/FinalExamGB/Exercise/Exercise.csproj",
         "packagesPath": "/Users/gamba/.nuget/packages/",
-        "outputPath": "/Users/gamba/Desktop/FinalExamGB/Exercise/obj/",
+        "outputPath": "/Users/gamba/Desktop/GB course/FinalExamGB/Exercise/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/gamba/.nuget/NuGet/NuGet.Config"
